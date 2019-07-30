@@ -1,0 +1,24 @@
+[13:09:57] [Client thread/WARN]: Skipping bad option: lastServer:
+[13:09:57] [Client thread/INFO]: LWJGL Version: 2.9.4
+[13:09:59] [Client thread/INFO]: Reloading ResourceManager: Default
+[13:09:59] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:10:00] [Thread-3/INFO]: Initializing LWJGL OpenAL
+[13:10:00] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:10:00] [Thread-3/INFO]: OpenAL initialized.
+[13:10:00] [Sound Library Loader/INFO]: Sound engine started
+[13:10:02] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[13:10:04] [Client thread/INFO]: Narrator library successfully loaded
+[13:10:09] [Client thread/INFO]: Connecting to 172.45.183.23, 25565
+[13:10:10] [Client thread/INFO]: Warning: Clientside chunk ticking took 166 ms
+[13:10:11] [Client thread/INFO]: Loaded 275 advancements
+[13:10:13] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[13:11:23] [Client thread/INFO]: Loaded 276 advancements
+[13:14:03] [Client thread/INFO]: [CHAT] x从高处摔了下来
+[13:21:49] [Client thread/WARN]: Received passengers for unknown entity
+[13:24:44] [Client thread/INFO]: Loaded 276 advancements
+[13:30:02] [Client thread/INFO]: [CHAT] a从高处摔了下来
+[13:32:01] [Client thread/INFO]: [CHAT] a被Skeleton射杀
+[13:48:42] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:entity.small_slime.squish
+[13:48:51] [Client thread/INFO]: [CHAT] L取得了进度[抱歉，今天不行]
+[13:48:51] [Client thread/INFO]: Loaded 276 advancements
+[13:56:00] [Client thread/INFO]: [CHAT] x退出了游戏

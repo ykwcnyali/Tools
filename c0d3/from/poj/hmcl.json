@@ -1,0 +1,68 @@
+{
+  "last": "Default",
+  "commonpath": "/home/yalikiwi/.minecraft",
+  "clientToken": "008ab528-aef2-4dae-8927-d3ab10861f80",
+  "proxyType": 0,
+  "enableShadow": false,
+  "enableBlur": true,
+  "enableAnimation": true,
+  "decorated": true,
+  "theme": "blue",
+  "logintype": 0,
+  "downloadtype": 0,
+  "configurations": {
+    "Default": {
+      "selectedMinecraftVersion": "1.12.2",
+      "gameDir": ".minecraft",
+      "noCommon": false,
+      "global": {
+        "usesGlobal": false,
+        "minecraftArgs": "",
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "Default",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "launcherVisibility": 1,
+        "gameDirType": 0
+      }
+    },
+    "Home": {
+      "selectedMinecraftVersion": "",
+      "gameDir": "/home/yalikiwi/.minecraft",
+      "noCommon": false,
+      "global": {
+        "usesGlobal": false,
+        "minecraftArgs": "",
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "launcherVisibility": 1,
+        "gameDirType": 0
+      }
+    }
+  },
+  "auth": {
+    "yggdrasil": {
+      "IAuthenticator_UserName": ""
+    },
+    "offline": {
+      "uuidMap": {
+        "b": "92eb5ffee6ae2fec3ad71c777531578f",
+        "L": "d20caec3b48a1eef164cb4ca81ba2587"
+      },
+      "IAuthenticator_UserName": "L"
+    }
+  },
+  "fontFamily": "Dialog",
+  "fontSize": 12,
+  "logLines": 100
+}
